@@ -5,10 +5,10 @@
   id ="com.phonegap.example5"
   version ="1.0.0">
   
-  <name>app5 Advertencia del dispositivo</name>
+  <name>app7 Deslizar hacia izquierda y a la derecha</name>
   
   <description>
-  Aplicacion que realiza la vibracion y beep del dispositivo</description>
+  Aplicacion que realiza el swipe o deslizamiento en el dispositivo</description>
   
   
   <author href="https://build.phonegap.com" email="anigonzalez2224@gmail.com">
