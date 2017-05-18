@@ -5,6 +5,7 @@ $(document).ready(function(e) {
 		
 		$('#izquierda').on("swipeleft",function(){
 			navigator.notification.alert("Deslizo a la izquierda",function(){"Aplicacion7","Aceptar"});
+			
 });
 	
 $('#derecha').on("swiperight",function(){
@@ -19,8 +20,8 @@ $('#derecha').on("swiperight",function(){
 		navigator.notification.vibrate(1000);
 		break;
 	}
-},"Aplicacion7","Beep,vibrar,cancelar");
+},"Aplicacion7","Beep,Vibrar,Cancelar");
 
 });
    },false);
-});//ready
+});
